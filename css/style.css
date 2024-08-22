@@ -147,7 +147,7 @@
     height: 100vh;
     width: 85vw;
     background-color: var(--neutral-700);
-    background-image: url(/img/hamburger_menu.jpg);
+    background-image: url(img/hamburger_menu.jpg);
     background-size: cover;
     background-blend-mode: hard-light;
     box-shadow: -4px 0px 10px var(--neutral-900);
@@ -234,7 +234,7 @@
 }
 
 .modal_container {
-    background-image: url(/img/modal_img.jpg);
+    background-image: url(img/modal_img.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -339,7 +339,7 @@
 
 .wlc-left-container {
     color: rgb(255, 255, 255);
-    background-image: url("/img/welcome-image-1.png");
+    background-image: url("img/welcome-image-1.png");
     background-position: center;
     background-size: cover;
     background-color: var(--neutral-700);
@@ -414,28 +414,28 @@
 }
 
 .destination-item-1 {
-    background-image: url(/img/img_1.jpeg);
+    background-image: url(img/img_1.jpeg);
     grid-column: span 2;
 }
 
 .destination-item-2 {
-    background-image: url(/img/img_2.jpeg);
+    background-image: url(img/img_2.jpeg);
     grid-row: span 2;
 }
 
 .destination-item-3 {
-    background-image: url(/img/img_3.jpeg);
+    background-image: url(img/img_3.jpeg);
     grid-row: span 2;
     background-position: top;
 }
 
 .destination-item-4 {
-    background-image: url(/img/img-4.jpeg);
+    background-image: url(img/img-4.jpeg);
     grid-column: span 1;
 }
 
 .destination-item-5 {
-    background-image: url(/img/img_5.jpeg);
+    background-image: url(img/img_5.jpeg);
     grid-column: span 2;
 }
 
@@ -459,15 +459,15 @@
 
 
 .price-content-1 .card-title {
-    background-image: url(/img/priceimg-1.jpeg);
+    background-image: url(img/priceimg-1.jpeg);
 }
 
 .price-content-2 .card-title {
-    background-image: url(/img/priceimg-2.jpeg);
+    background-image: url(img/priceimg-2.jpeg);
 }
 
 .price-content-3 .card-title {
-    background-image: url(/img/priceimg-3.jpeg);
+    background-image: url(img/priceimg-3.jpeg);
 }
 
 .price-content-2 {
@@ -712,7 +712,7 @@
 }
 
 .achievement-container {
-    background-image: url(/img/numbers-image.jpg);
+    background-image: url(img/numbers-image.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
